@@ -34,8 +34,10 @@ print('\n' 'Creating a Pre-Populated List' '\n')
 #
 # WRITE CODE BELOW
 integers = [1, 15, -4, -26, 34]
-
-
+floats=['1','15','-4','-26','34']
+Booleans=[True,False,True,False]
+Animal_list=["lion","Wolf"."giraffe"]
+Objects_list=["desk","chair","notebook","coat"]
 # -------------------- Section 2 ------------------------- #
 # ---------------- List Modification --------------------- #
 print('\n' '# -------------------- Section 2 ------------------------- #')
